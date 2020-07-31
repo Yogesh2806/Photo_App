@@ -1,0 +1,105 @@
+.navbar navbar-dark bg-dark {
+  position: sticky;
+}
+#cam-app {
+  color: wheat;
+  position: relative;
+  left: 20%;
+}
+.text-centre {
+  background: linear-gradient(rgba(151, 149, 149, 0.151), rgb(59, 59, 59)),
+    url(./components/assets/img1.jpg);
+  width: 100%;
+  height: 100vh;
+  background-position: center;
+  object-fit: cover;
+  background-size: cover;
+}
+.title {
+  color: wheat;
+  font-family: cursive;
+  position: relative;
+  right: 20%;
+}
+#left-arrow {
+  color: black;
+  font-size: 50px;
+  position: relative;
+  left: 5%;
+  top: 100px;
+}
+
+.photo-link {
+  background: rgba(255, 255, 255, 0.205);
+  color: white;
+  padding: 10px 20px;
+  position: relative;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%);
+  border: none;
+  border-radius: 15px;
+  font-size: 20px;
+  font-family: cursive;
+}
+.photo-link:hover {
+  text-decoration: none;
+  color: wheat;
+  outline: none;
+  list-style: none;
+}
+.img1 {
+  background: url(./components/assets/img2.jpg);
+  width: 100%;
+  height: 70vh;
+  background-position: center;
+  object-fit: cover;
+  background-size: cover;
+  margin-top: 90px;
+}
+.img2 {
+  background: url(./components/assets/img3.jpg);
+  width: 100%;
+  height: 70vh;
+  background-position: center;
+  object-fit: cover;
+  background-size: cover;
+  margin-top: 30px;
+}
+.img3 {
+  background: url(./components/assets/img4.jpg);
+  width: 100%;
+  height: 70vh;
+  background-position: center;
+  object-fit: cover;
+  background-size: cover;
+  margin-top: 30px;
+}
+.img4 {
+  background: url(./components/assets/img5.jpg);
+  width: 100%;
+  height: 70vh;
+  background-position: center;
+  object-fit: cover;
+  background-size: cover;
+  margin-top: 30px;
+}
+.img5 {
+  background: url(./components/assets/img6.jpg);
+  width: 100%;
+  height: 70vh;
+  background-position: center;
+  object-fit: cover;
+  background-size: cover;
+  margin-top: 30px;
+}
+.img6 {
+  background: url(./components/assets/img7.jpg);
+  width: 100%;
+  height: 70vh;
+  background-position: center;
+  object-fit: cover;
+  background-size: cover;
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
